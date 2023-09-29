@@ -1,3 +1,4 @@
+// print subarrays of an array
 class ArrayCC {
     public static void printSubarray(int numbers[]) {
         int total = 0;
